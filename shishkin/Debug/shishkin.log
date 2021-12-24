@@ -1,0 +1,4 @@
+﻿  shishkin.cpp
+C:\Users\Админ\source\repos\shishkin\shishkin.cpp(69,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\source\repos\shishkin\shishkin.cpp(69,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  shishkin.vcxproj -> C:\Users\Админ\source\repos\shishkin\Debug\shishkin.exe

@@ -1,0 +1,3 @@
+C:\Users\Админ\source\repos\shishkin\Debug\shishkinCLR.MyForm.resources
+C:\Users\Админ\source\repos\shishkin\Debug\shishkinCLR.vcxproj.GenerateResource.cache
+C:\Users\Админ\source\repos\shishkin\Debug\shishkinCLR.exe
